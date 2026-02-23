@@ -5,7 +5,8 @@
       "Bash(python3:*)",
       "Bash(ls:*)",
       "Bash(node -c:*)",
-      "Bash(cd C:\\\\Users\\\\danie\\\\OneDrive\\\\Desktop\\\\Claude\\\\AV\\\\Ferie:*)"
+      "Bash(cd C:\\\\Users\\\\danie\\\\OneDrive\\\\Desktop\\\\Claude\\\\AV\\\\Ferie:*)",
+      "WebFetch(domain:ferrovierifiltpiemonte.github.io)"
     ]
   }
 }

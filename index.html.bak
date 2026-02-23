@@ -68,29 +68,6 @@
             .subtitle {
                 font-size: 0.85em;
             }
-
-            /* Menu ottimizzato per tablet/mobile */
-            .menu-bar {
-                flex-direction: column;
-                gap: 20px;
-            }
-
-            .menu-section {
-                display: flex;
-                flex-direction: column;
-                gap: 8px;
-            }
-
-            .menu-bar label {
-                margin-right: 0;
-                font-weight: 700;
-            }
-
-            .menu-bar select {
-                min-width: 100%;
-                width: 100%;
-                padding: 12px;
-            }
         }
 
         @media (max-width: 480px) {
@@ -113,18 +90,6 @@
 
             .menu-bar select {
                 min-width: 100%;
-                width: 100%;
-            }
-
-            .calendar-table td {
-                padding: 8px;
-                height: 50px;
-                font-size: 0.9em;
-            }
-
-            .calendar-table th {
-                padding: 8px;
-                font-size: 0.85em;
             }
         }
 
