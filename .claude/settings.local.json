@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python analisi_ferie.py:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(node -c:*)",
+      "Bash(cd C:\\\\Users\\\\danie\\\\OneDrive\\\\Desktop\\\\Claude\\\\AV\\\\Ferie:*)"
+    ]
+  }
+}

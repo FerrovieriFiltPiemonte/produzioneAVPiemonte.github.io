@@ -1,0 +1,920 @@
+{
+  "2026-06-15": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-21": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-27": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-03": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-09": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-15": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-21": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-27": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-02": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-08": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-14": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-20": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-26": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-01": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-07": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-13": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-19": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-03": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-04": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-05": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-06": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-08": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-09": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-10": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-11": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-12": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-14": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-15": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-16": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-17": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-18": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-10": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-11": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-12": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-13": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-14": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-16": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-17": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-18": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-19": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-20": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-22": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-23": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-24": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-25": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-26": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-31": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-01": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-03": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-04": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-05": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-06": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-07": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-09": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-10": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-11": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-12": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-13": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-15": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-16": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-28": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-29": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-06-30": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-01": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-02": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-04": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-05": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-06": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-07": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-08": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-10": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-11": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-12": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-13": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-14": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-16": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-17": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-18": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-19": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-20": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-22": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-23": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-24": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-25": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-26": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-28": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-29": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-07-30": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-21": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-27": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-09-02": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-17": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-18": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-19": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-22": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-23": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-24": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-25": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-28": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-29": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-30": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  },
+  "2026-08-31": {
+    "percentuale_20plus": 100.0,
+    "percentuale_30plus": 0.0,
+    "media_assenti": 20.0,
+    "max_assenti": 20,
+    "min_assenti": 20,
+    "count_20plus": 500,
+    "count_30plus": 0
+  }
+}
