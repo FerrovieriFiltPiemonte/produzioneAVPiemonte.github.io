@@ -434,6 +434,20 @@
             color: white;
             font-weight: bold;
         }
+        .info-note {
+            background-color: rgba(255, 255, 255, 0.95);
+            border-left: 4px solid #FF8C00;
+            padding: 15px 20px;
+            margin: 20px auto;
+            max-width: 1200px;
+            border-radius: 5px;
+            font-weight: 600;
+            color: #333;
+            font-size: 0.95em;
+            line-height: 1.6;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
     </style>
 </head>
 <body>
@@ -488,6 +502,10 @@
             </div>
         </div>
 
+        </div>
+
+        <div class="info-note">
+            <strong>NB:</strong> La griglia dei riposi è fissa e lo schema non può variare.<br>Gli intervalli possono essere fissati nel giorno antecedente o seguente durante il roster (produzione del turno individuale).<br>Per semplicità abbiamo previsto due casi: tutti gli intervalli prima o tutti gli intervalli dopo il riposo.<br>Il senso della cadenza dei riposi e dell'interferenza con le ferie estive dovrebbe in ogni caso essere chiaro.
         </div>
 
         <div class="calendar-grid" id="calendarGrid"></div>
